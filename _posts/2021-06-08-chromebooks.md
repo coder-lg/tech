@@ -35,11 +35,13 @@ What the? Have I been fooled by Apple?
 
 No.
 
-THey use premium things. It
+They use premium things.
+
+Hit me.
 
 But the  Duet? It's cheap and cool.
 
-I mean, it has 6 GB of RAM and has 256 GB of storge, but it doesn't end there. It is like a Surface, detachable AND never disconnects from your phone(Google Connection) and you can get Debian in that for free. It has Google Play support, which means...
+I mean, it has 6 GB of RAM and has 256 GB of storage, but it doesn't end there. It is like a Surface, detachable AND never disconnects from your phone(Google Connection) and you can get Debian in that for free. It has Google Play support, which means...
 ```
 Bye, bye, Bluestacks!
 ```
@@ -56,7 +58,7 @@ USI stylus support on all touchscreen chromebooks.
 Every mid range chromebooks are between $200-$300 and, therefore, I end this section here.
 
 ### The beginning of Android+Linux on Chrome OS
-Google made Chrome OS to fight Windows and till 2017, it was just crap. Needed internet to run, no Linux, no Android. But, in 2017, Google added Android App support to Chrome OS. TIll then, it was just Chrome Apps. Now, there is changes. At least, something's improving. But, they added Crostini by 2018/2019.
+Google made Chrome OS to fight Windows and till 2017, it was just crap. Needed internet to run, no Linux, no Android. But, in 2017, Google added Android App support to Chrome OS. Till then, it was just Chrome Apps. Now, there is changes. At least, something's improving. But, they added Crostini by 2018/2019.
 Some more improvements. But, in 2020, the surge happened.
 
 I mean, in 2019, Chromebooks were mediocre. No big sales. But, in 2020, since online schooling appeared, Chromebook sales surged. Every parent wanted a Chromebook for their kids. So, Chromebooks gained fame. For being cheap but, still, fast, with Linux for the devs, Zoom and Google Meet for the kids, and it was helpful. Now, the people has realised the Chromebooks were worth it.
