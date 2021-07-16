@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  "Chromebooks vs Windows vs Mac (Linux in Chromebooks)"
+title:  "What are CHROMEBOOKS?"
 date:   2021-07-08 15:45:00 +0530
 bootstrap: true
-author: its-lg
+author: coder-lg
 excerpt_seperator: <!--more-->
-toc: true
-redirect_from:
-  - /tech/chromebooks/
-permalink: /tech/chromebooks/
 categories:
 - tech
 - chromebooks
@@ -17,6 +13,8 @@ categories:
 ---
 What are Chromebooks? Are they Windows with Android App Support or WHAT?
 <!--more-->
+* TOC
+{:toc}
 # What are Chromebooks?
 Cheap but powerful computers with Android+Linux support.
 ### About Chromebooks
