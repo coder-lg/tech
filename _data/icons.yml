@@ -23,8 +23,8 @@ pinterest:
 reddit:
 soundcloud:
 sms:              # e.g. "+11111111111"
-stack-exchange: "21540874"  # e.g. "123456789"
-stack-overflow: "15878669"  # e.g. "123456789"
+stack-exchange:   # e.g. "123456789"
+stack-overflow:   # e.g. "123456789"
 steam:
 telegram:
 tumblr:
